@@ -1,0 +1,8 @@
+{ 
+
+	"skillset1": ["Java", "Python", "Javascript","C#","R"],
+	"skillset2": ["oracle", "MySql", "SQL Server","SQL"],
+	"skillset3": ["android", "asp.net", "","visulisation","HTML","CSS"] 
+
+}
+

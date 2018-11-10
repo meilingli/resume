@@ -1,0 +1,49 @@
+[
+  {
+    "startdate": "2016-06-01",
+    "enddate": "2014-09-28",
+    "title": "BEST Info Company, Database developer",
+    "shorttitle": "Database developer",
+    "type": "job",
+    "glyph": "star",
+    "description": "<ul><li>Data collection – collect over 80,000,000 records from 12 departments (IRS, Forestry Bureau, Industry and Commerce Bureau, Civil Affairs Bureau...)</li><li>Data wrangling---Processing the collected raw data, especially the records containing null values, missing values, and non-standard values, mainly use the ORACLE database </li><li>Data Modeling---develop a database that meets business needs </li></ul>"
+  },
+  {
+    "startdate": "2017-02-28",
+    "enddate": "2018-12-18",
+    "title": "Monash University, Master of Information Technology",
+    "shorttitle": "Master of Information Technology",
+    "type": "education",
+    "glyph": "star",
+    "description": "Main courses:<ul><li>Programming foundation in Java</li><li>Data Communications</li><li>Software Engineering</li><li>Internet Application Development</li><li>Algorithms and Data Structure</li><li>Data exploration and visulisation</li><li>Mobile and distributed computing system</li></ul>"
+  
+  },
+   {
+    "startdate": "2012-09-01",
+    "enddate": "2016-06-01",
+    "title": "Hubei University of Chinese Medicine, Bachelor",
+    "shorttitle": "Information management and System",
+    "type": "education",
+    "glyph": "star",
+    "description": "Main courses:<ul><li>Advanced Mathematics</li><li>Network Database</li><li>Website Design and Development</li><li>Object Oriented Programming</li><li>Database Principle</li><li>Network of Computer and Information Security</li><li>Hospital Information System</li></ul>"
+  
+  },
+  {
+    "startdate": "2018-03-01",
+    "enddate": "2018-05-01",
+    "title": "Android Application Development",
+    "shorttitle": "Energy Usage",
+    "type": "other",
+    "glyph": "star",
+    "description": "The mobile app assists Victorian residents (energy consumers) with better energy management by providing related information, and enabling them to view their energy consumption reports. If the usage is high during peak hours, it will provide the user with a warning message. Alternatively, when the usage value is low, the user will receive an encouraging message to continue saving. The historical data usage can be viewed on an hourly or daily basis using different types of graphs on the mobile app.<ul><li>RESTFUL service-Use netbean to create RESTFUL web service. Firstly , develop a database and import data, then write the webservice query statements to return data to the user in Json</li><li>Android mobile development (front end) – define layout for activity and fragments. Mainly various controls like Spinner, Textview, Button,Map</li><li>Android mobile development (backend). Since this is not a big program, MVC pattern had not been used. Use httpURLconnection to get data from network and API to use google map and weather data. In particular, AsyncTask has been used for long-time calculating.</li></ul>"
+  },
+  {
+    "startdate": "2018-08-01",
+    "enddate": "2018-10-1",
+    "title": "Web application ",
+    "shorttitle": "www.medifemau.tk",
+    "type": "other",
+    "glyph": "star",
+    "description": "Medifem is a web application aiming to help female patients in Australia to learn about their suburb information and find the suburb in Australia that may meet their cultural needs. It will also allow female patients to discover nearby doctors in their areas so that they can get medical care conveniently. Please visit our website via https://www.medifemau.tk<ul><li>Front-end development—front-end page design, mainly use razor notation + javascript+css to implement front-end interactive pages. Unlike general html tags, razor can embed scripts to run code, declare variable to dynamically load pages. Javascript handles more advanced front-end and back-end interactions such as using ajax to retrieve back-end data and pass it to the front end.</li><li>Back-end development ---use MVC as the framework. As the main back-end development language, C# is used for functions, retrieving data and passing it to the front end in Json. View and the corresponding controller need have a  same name, otherwise the view cannot return the corresponding page. If the result is not a view, but a Json, the corresponding function can be placed in any controller. Note that the correct controller and method names are passed if you use ajax call. </li></ul>"
+  }
+]
